@@ -56,4 +56,4 @@ The analysis is divided into five sections:
 🏁 Conclusion
 This project demonstrates the power of machine learning in healthcare, specifically for breast cancer diagnosis. It utilizes SVM and visualization tools to create a reliable, interpretable model for binary classification. 🌟
 
-![image](https://github.com/user-attachments/assets/7cb2ccd0-a185-4712-aee6-16d665403ac5)
+
